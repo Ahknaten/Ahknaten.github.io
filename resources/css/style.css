@@ -10,6 +10,10 @@ body {
   color: Aquamarine;
 }
 
+a:link, a:hover, a:active, a:visited {
+  color: Aquamarine;
+}
+
 h1 {
   font-weight: normal;
   font-size: 50px;
